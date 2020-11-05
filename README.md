@@ -24,4 +24,4 @@ Elasticsearch中文文档(7.9 version)
   - ...
 - REST APIS
   - Index APIs
-    - close index
+    - [关闭索引]()
