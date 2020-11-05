@@ -24,4 +24,4 @@ Elasticsearch中文文档(7.9 version)
   - ...
 - REST APIS
   - Index APIs
-    - [关闭索引]()
+    - [关闭索引API](https://github.com/yankewei/Elasticsearch-doc/issues/11)
