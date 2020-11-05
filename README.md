@@ -21,4 +21,7 @@ Elasticsearch中文文档(7.9 version)
 - 升级Elasticsearch
   - ...
 - 索引模块
-  - 
+  - ...
+- REST APIS
+  - Index APIs
+    - close index
